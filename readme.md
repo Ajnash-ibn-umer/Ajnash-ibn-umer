@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-I am Ajnash-ibn-umer from Kerala, India. who is an Open Source Contributor, Tech enthusiast,  loves Games and Movies , always learning new things,solve real world Problems and ready for discussions and making new projects.
+I am Ajnash-ibn-umer  India. who is an Open Source Contributor, Tech enthusiast,  loves Games and Movies , always learning new things,solve real world Problems and ready for discussions and making new projects.
+
+
+### Accounts 📫
+
+You can find and get touch with me on these accounts!
+>
+
+<a href="https://www.linkedin.com/in/ajnash-k-6739591b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/ajnash.aju323/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://dev.to/ajnashibnumer" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
@@ -71,19 +82,8 @@ I am Ajnash-ibn-umer from Kerala, India. who is an Open Source Contributor, Tech
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### Other Accounts 📫
-
-You can find and get touch with me on these accounts!
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Ajnash-ibn-umer) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/ajnash.aju323/) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/14258973/ajnash-aj) | <a target="_blank" href="https://www.linkedin.com/in/ajnash-k-6739591b5/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
-
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ajnash-ibn-umer&theme=juicyfresh&no-bg=true" />
-
-<a href="https://www.linkedin.com/in/ajnash-k-6739591b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/ajnash.aju323/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://dev.to/ajnashibnumer" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 ---
 
