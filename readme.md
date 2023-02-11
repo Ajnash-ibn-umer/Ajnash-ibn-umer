@@ -13,6 +13,8 @@ I am Ajnash-ibn-umer from Kerala, India. who is an Open Source Contributor, Tech
 ![Ajnash-ibn-umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajnash-ibn-umer&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajnash-ibn-umer&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Ajnash-ibn-umer/github-readme-stats)
 
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ajnash-ibn-umer&theme=juicyfresh&no-bg=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajnash-ibn-umer&theme=tokyonight" alt="mystreak"/>
 ### Programming Languages 🌐
 
