@@ -45,7 +45,7 @@ You can find and get touch with me on these accounts!
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-### Frameworks, Platforms and Libraries 🛠️
+<!-- ### Frameworks, Platforms and Libraries 🛠️
 
 
 - Know/Using
@@ -80,7 +80,7 @@ You can find and get touch with me on these accounts!
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) -->
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ajnash-ibn-umer&theme=juicyfresh&no-bg=true" />
