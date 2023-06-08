@@ -26,7 +26,7 @@ You can find and get touch with me on these accounts!
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajnash-ibn-umer&theme=tokyonight" alt="mystreak"/>
-<h2>Programming Languages</h2> 🌐
+<!-- <h2>Programming Languages</h2> 🌐 -->
 
 <!-- - Know/Using
 
