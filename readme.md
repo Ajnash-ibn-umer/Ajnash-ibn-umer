@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/ajnash_ibn_umer" target="blank"><img src="https://img.shields.io/twitter/follow/ajnash_ibn_umer?logo=twitter&style=for-the-badge" alt="ajnash_ibn_umer" /></a> </p>
 
-- 🌱 I’m currently learning **Bun.js,AWS,System Designs**
+- 🌱 I’m currently learning **Bun.js,AWS,System Designs,MicroServices,Nest.js**
 
-- 👨‍💻 All of my projects are available at [ajnash.tech](ajnash.tech)
+- 👨‍💻 All of my projects are available at [ajnash.tech](https://ajnash.tech)
 
 - 📝 I regularly write articles on [https://dev.to/ajnashibnumer](https://dev.to/ajnashibnumer)
 
-- 💬 Ask me about **Node.js ,React,Express.js,MongoDB**
+- 💬 Ask me about **Node.js ,React,Express.js,MongoDB,GraphQl**
 
 - 📫 How to reach me **ajnash.k02@gmail.com**
 
-- ⚡ Fun fact **Selfish**
+- ⚡ Fun fact **Iam Crazyy**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -38,5 +38,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajnash-ibn-umer&show_icons=true&locale=en&layout=compact" alt="ajnash-ibn-umer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajnash-ibn-umer&show_icons=true&locale=en" alt="ajnash-ibn-umer" /></p>
-
+<p>[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ajnash-ibn-ummer)](https://leetcode.com/Ajnash-ibn-ummer/)</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajnash-ibn-umer&" alt="ajnash-ibn-umer" /></p>
