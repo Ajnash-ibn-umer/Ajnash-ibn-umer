@@ -38,5 +38,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajnash-ibn-umer&show_icons=true&locale=en&layout=compact" alt="ajnash-ibn-umer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajnash-ibn-umer&show_icons=true&locale=en" alt="ajnash-ibn-umer" /></p>
-<p>[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ajnash-ibn-ummer)](https://leetcode.com/Ajnash-ibn-ummer/)</p>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ajnash-ibn-ummer)](https://leetcode.com/Ajnash-ibn-ummer/)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajnash-ibn-umer&" alt="ajnash-ibn-umer" /></p>
