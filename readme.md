@@ -59,6 +59,8 @@ You can find and get touch with me on these accounts!
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajnash-ibn-umer&theme=tokyonight" alt="mystreak"/>
+<img src="https://wakatime.com/share/@018bae5b-4643-432e-ba1c-6ba2dceb9db3/73ce42ac-95bf-4429-97ad-55574d1f90a9.svg" alt="mystreak"/>
+
  <h2>Programming Languages And FrameWorks</h2> 🌐
 
 Know/Using
@@ -105,8 +107,9 @@ Know/Using
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<h2>Tools ,DataBases🛠️</h2> 🌐
-- Know/Using
+<h2>Tools ,DataBases🛠️</h2>
+
+-🌐 Know/Using
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
