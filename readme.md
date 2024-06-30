@@ -56,7 +56,7 @@ You can find and get touch with me on these accounts!
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Ajnash-ibn-umer)
 
 ### LeetCode Profile
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ajnash-ibn-ummer)](https://leetcode.com/Ajnash-ibn-ummer/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ajnash-ibn-ummer?theme=light&font=Noto%20Sans%20HK&ext=activity)
 
 ![Ajnash-ibn-umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajnash-ibn-umer&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajnash-ibn-umer&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Ajnash-ibn-umer/github-readme-stats)
