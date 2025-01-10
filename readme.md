@@ -38,7 +38,7 @@ I am Ajnash from  India. who is an Open Source Contributor, Tech enthusiast,  lo
 - 📝 I regularly write articles on https://dev.to/ajnashibnumer
 - 💬 Ask me about **Node.js ,React,Express.js,MongoDB,GraphQl**
 - 📫 How to reach me **[ajnash.k02@gmail.com](mailto:ajnash.k02@gmail.com)**
-- ⚡ Fun fact **Iam Crazyy**
+
 
 ### Accounts 📫
 
