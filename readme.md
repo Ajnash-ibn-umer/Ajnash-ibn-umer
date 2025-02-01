@@ -34,9 +34,9 @@
 I am Ajnash from  India. who is an Open Source Contributor, Tech enthusiast,  loves Games and Movies , always learning new things,solve real world Problems and ready for discussions and making new projects.
 
 - 🌱 I’m currently learning **Bun.js,AWS,System Designs,MicroServices,Nest.js**
-- 👨‍💻 All of my projects are available at [ajnash.tech](https://ajnash.tech/)
+- 👨‍💻 All of my projects are available at [ajnash.site](https://ajnash.site/)
 - 📝 I regularly write articles on https://dev.to/ajnashibnumer
-- 💬 Ask me about **Node.js ,React,Express.js,MongoDB,GraphQl**
+- 💬 Ask me about **Node.js ,Next.js,React,Express.js,MongoDB,GraphQl**
 - 📫 How to reach me **[ajnash.k02@gmail.com](mailto:ajnash.k02@gmail.com)**
 
 
