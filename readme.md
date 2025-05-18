@@ -31,7 +31,8 @@
 
 </div>
 <br><br>  
-## 👋 Hi, I'm Ajnash
+
+##  👋 Hi, I'm Ajnash
 
 I'm an Indian software engineer currently working in Dubai. I'm an Open Source Contributor, tech enthusiast, and a lifelong learner who loves solving real-world problems. I'm also passionate about games, movies, and building cool projects. Always up for meaningful discussions and collaborations!
 
@@ -47,7 +48,7 @@ I'm an Indian software engineer currently working in Dubai. I'm an Open Source C
 
 ### 💬 Let’s Connect
 
-- Ask me about: **Node.js**, **Backend Engineering**, or **emerging tech trends**
+- Ask me about: **Node.js**,**GO**, **Backend Engineering**, or **emerging tech trends**
 - 📫 Reach out: [ajnash.k02@gmail.com](mailto:ajnash.k02@gmail.com)
 
 
