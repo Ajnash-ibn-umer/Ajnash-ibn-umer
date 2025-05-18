@@ -31,13 +31,25 @@
 
 </div>
 <br><br>  
-I am Ajnash from  India. who is an Open Source Contributor, Tech enthusiast,  loves Games and Movies , always learning new things,solve real world Problems and ready for discussions and making new projects.
+## 👋 Hi, I'm Ajnash
 
-- 🌱 I’m currently learning **AI/ML,AWS,System Designs,MicroServices,Go**
-- 👨‍💻 All of my projects are available at [ajnash.site](https://ajnash.site/)
-- 📝 I regularly write articles on https://blog.ajnash.site
-- 💬 Ask me about **Node.js ,Backaend engineering, new tech trends**
-- 📫 How to reach me **[ajnash.k02@gmail.com](mailto:ajnash.k02@gmail.com)**
+I'm an Indian software engineer currently working in Dubai. I'm an Open Source Contributor, tech enthusiast, and a lifelong learner who loves solving real-world problems. I'm also passionate about games, movies, and building cool projects. Always up for meaningful discussions and collaborations!
+
+---
+
+### 🚀 What I’m Up To
+
+- 🌱 Currently diving deep into **AI/ML**, **AWS**, **System Design**, **Microservices**, and **Go**
+- 👨‍💻 Explore all my projects at: [ajnash.site](https://ajnash.site/)
+- 📝 I write regularly about tech and learnings at: [blog.ajnash.site](https://blog.ajnash.site)
+
+---
+
+### 💬 Let’s Connect
+
+- Ask me about: **Node.js**, **Backend Engineering**, or **emerging tech trends**
+- 📫 Reach out: [ajnash.k02@gmail.com](mailto:ajnash.k02@gmail.com)
+
 
 
 ### Accounts 📫
